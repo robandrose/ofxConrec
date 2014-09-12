@@ -40,7 +40,6 @@ private:
     int highest;
     
     CContourMap* cmap;
-    
     ofVboMesh mesh;
     
 };
